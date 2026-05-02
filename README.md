@@ -1,4 +1,4 @@
-# 3-darsdan Berilgan vazifa:
+# 3- va 4-darsdan Berilgan vazifalar:
 ## SHART - FOYDALANUVCHIDAN 2 TA SON SO'RASH VA ULAR ASOSIDA 4 TA ASIFMETIK AMALLAR BAJARISH !
 Solving Math issues
 
