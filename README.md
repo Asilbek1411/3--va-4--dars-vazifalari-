@@ -19,4 +19,4 @@ Solving Math issues
 ## Berilgan: boshlang‘ich qiymat a va yakuniy qiymat b
 ## ![alt text](image-5.png)
 # Qayerda ishlatiladi: Narx o‘zgarishi, foizli hisob-kitoblar, savdo tahlilida.
-![video] 
+![alt text](<4-dars vazifasi - Copy (1).gif>)
